@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style.css" type="text/css">
+    <style type="text/css">
+        
+        #div1{width: 240px; height: 240px; padding: 10px; border:1px #aaaaaa solid; float: left; }
+        #drag1{float: left;}
+    </style>
+    
+    <script type="text/javascript" src="modernizr.custom.38894.js"></script>
+    <script>
+        if(window.FileReader && Modernizr.draganddrop){
+              //document.write('This browser can use drag and drop!');
+            
+               function allowDrop (ev){
+                  ev.preventDefault();
+              }
+            
+               function drag (ev){
+                  ev.dataTransfer.setData("Text", ev.target.id);
+              }
+            
+            
+               function drop(ev){
+                  ev.preventDefault();
+                  var data = ev.dataTransfer.getData ("Text");
+                   ev.target.appendChild(document.getElementById(data));
+     	}
+} else {
+	document.write('Sorry, your browser does not support drag and drop');
+}
+</script>
+
+<title>Drag and Drop</title>
+</head>
+
+<body>
+	<div id="container">
+		<header>
+			<h1><span class="blue-text">Blue</span> Developer Directory</h1>
+			<h2>Find A Developer <span class="white-text">NOW</span></h2>
+		</header>
+		
+		
+		<nav id="menu">
+			<ul>
+				<li class="menuitem"><a href="index.html">Home</a></li>
+				<li class="menuitem"><a href="about.html">About Us</a></li>
+				<li class="menuitem"><a href="browse.html">Browse Developers</a></li>
+				<li class="menuitem"><a href="contact.html">Contact Us</a></li>
+                <li class="menuitem"><a href="canvas.html">Canvas</a></li>
+                <li class="menuitem"><a href="picca.html">Picca</a></li>
+                <li class="menuitem"><a href="drag.html">Drag & Drop</a></li>
+                <li class="menuitem"><a href="svg.html">SVG</a></li>
+			</ul>
+        </nav>
+		 
+		 <nav id="leftmenu">
+        <h3>Links</h3>
+			<ul>
+				<li><a href="browse.html">SEO</a></li>
+				<li><a href="browse.html">PHP</a></li>
+				<li><a href="browse.html">Ajax</a></li>
+				<li><a href="browse.html">jQuery</a></li>
+				<li><a href="browse.html">Web design</a></li>
+				<li><a href="browse.html">Web Programming</a></li>
+				<li><a href="browse.html">Content Creation</a></li>
+				<li><a href="browse.html">Internet Marketing</a></li>
+				<li><a href="browse.html">XHTML Templates</a></li>
+			</ul>
+		</nav>
+		
+		
+<section>
+  <p>
+   <h1> Drag the HTML5 logo into the box</h1>
+    <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+    <br>
+    <img id="drag1" src="images/html5.jpg" alt="html logo" draggable="true" ondragstart ="drag(event)">
+    </p>
+</section>
+</body>
+</html>
