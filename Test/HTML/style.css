@@ -1,0 +1,39 @@
+.wrapper{
+    border:12px solid black;
+    height:100%;
+    width:70%;
+    margin:0 auto;
+    position:relative;
+}
+
+.header {
+    border:12px solid yellow;
+    min-height:10%;
+    margin:0 0;
+    overflow:hidden;
+    position:relative;
+    display:block
+}
+
+.footer {
+    border:12px solid blue;
+    min-height:35px;
+    margin:0 0;
+    bottom:0;
+    position:relative;
+}
+
+.content {
+    min-height:auto;
+    border:12px solid green;
+    margin:0 0;
+    padding:0;
+    position:relative;
+}
+
+html, body{
+    height:100%;
+    width:100%;
+    margin:0px;
+    overflow:auto;
+}

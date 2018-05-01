@@ -1,0 +1,29 @@
+body {
+    background: #f7f7f9;
+    font-family: trebuchet ms;
+    color: navy;
+}
+
+div.opmaaknaam p {font-style:italic; font-size: 14px}
+div.opmaakadres p {font-style:italic; font-size: 20px}
+div.opmaakpwp p {font-style:italic; font-size: 24px}
+
+label {
+    float: left;
+    width: 85px;
+    text-align: right;
+    margin-right: 15px;
+
+}
+
+#naam, #adres, #postcode, #stad{
+    display: block;
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color: #4cae4c;
+}

@@ -1,0 +1,34 @@
+body {
+  font-family: 'Permanent Marker', cursive;
+}
+
+#skills{
+    padding: 300px 0 !important;
+}
+.height {
+  min-height: 100vh;
+}
+
+.title-underline {
+  width: 100px;
+  height: 5px;
+  margin: 0 auto
+}
+
+.height-80 {
+  min-height: 80vh;
+}
+
+.about-picture {
+  background: url(images/about-bcg.jpeg) center/cover no-repeat fixed;
+  /*background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  */
+}
+
+#filler,
+#progress {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/projects-1.jpeg) center/cover no-repeat fixed;
+}
