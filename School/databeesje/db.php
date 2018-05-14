@@ -1,5 +1,5 @@
 <?php
-
+/*
 Define('DB_HOST' , 'localhost');
 Define( 'DB_NAME','data' );
 Define ( 'DB_USER', 'root');
@@ -19,9 +19,20 @@ Define( 'DB_PASS', 'root' );
     $db = verbinden();
     if( is_null( $db ) )
     die('<h1>Database-verbinding mislukt</h1>' );
-    echo 'gelukt'; ?>
+    echo 'gelukt'; */
 
-klasse met  hoofdletter
-fetch obj
-fetch assoch
-fetch class
+
+$link = mysqli_connect('localhost','root', 'root', 'data') ;
+if ($link == FALSE)
+    exit("Verbinding is mislukt.") ;
+//else print "Verbinding is gelukt!";
+
+// Leg verbinding met database world
+
+$dbresultaat = mysqli_select_db( $link,'data');
+if ( ! $dbresultaat )
+    exit("Database is niet gevonden.") ;
+//else print "Database is gevonden!" ; ?>
+?>
+
+

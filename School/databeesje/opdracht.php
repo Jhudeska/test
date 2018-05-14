@@ -14,3 +14,12 @@ Bonus:
 
 P.S.
 CRUD = Create, Read, Update, Delete (!)
+
+
+
+--------------------
+
+klasse met  hoofdletter
+fetch obj
+fetch assoch
+fetch classs
