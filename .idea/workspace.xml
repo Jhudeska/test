@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b50dba33-cc8d-4996-827a-26e80b3d7416" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/School/databeesje/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/School/databeesje/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/School/databeesje/server.php" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/School/databeesje/db.php" afterPath="$PROJECT_DIR$/School/databeesje/db.php" />
-      <change beforePath="$PROJECT_DIR$/School/databeesje/klant.php" afterPath="$PROJECT_DIR$/School/databeesje/klant.php" />
-      <change beforePath="$PROJECT_DIR$/School/databeesje/opdracht.php" afterPath="$PROJECT_DIR$/School/databeesje/opdracht.php" />
-    </list>
+    <list default="true" id="b50dba33-cc8d-4996-827a-26e80b3d7416" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/School/databeesje/server.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -184,10 +176,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="807" />
-    <option name="height" value="969" />
+    <option name="width" value="1243" />
+    <option name="height" value="1358" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -222,14 +214,14 @@
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="School" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="databeesje" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webwinkel" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="School" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="databeesje" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webwinkel" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
@@ -300,12 +292,12 @@
       <workItem from="1524264648676" duration="1117000" />
       <workItem from="1483229884301" duration="109925000" />
       <workItem from="1525383011182" duration="20535000" />
-      <workItem from="1525641648569" duration="30896000" />
+      <workItem from="1525641648569" duration="32063000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="259623000" />
+    <option name="totallyTimeSpent" value="260790000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -317,7 +309,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="807" height="969" extended-state="1" />
+    <frame x="0" y="23" width="1243" height="1358" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31425598" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -326,7 +319,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54366815" sideWeight="0.61782664" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23374613" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13464053" sideWeight="0.4904762" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2764363" sideWeight="0.4904762" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.56593406" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6113117" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -812,7 +805,7 @@
     <entry file="file://$PROJECT_DIR$/School/databeesje/server.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding />
         </state>
       </provider>
