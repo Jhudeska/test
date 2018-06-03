@@ -2,95 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b50dba33-cc8d-4996-827a-26e80b3d7416" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/Mastery/section_1/aframe.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/Mastery/section_1/animation.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/Mastery/section_1/img/mov_bbb.mp4" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/Mastery/section_1/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/Mastery/section_1/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/Mastery/section_1/pano.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/Mastery/section_1/photo.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/Mastery/section_1/script.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/Mastery/section_1/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/Mastery/section_1/video.mp4" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/Mastery/section_2/article.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/Mastery/section_2/excercise-containers.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/Mastery/section_2/syntax.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/Mastery/udemy.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/validator.w3.org.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PHP/Recursive_function.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php-test-framework.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PHP/Unittest/UnitTestSample.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PHP/Unittest/phpunit-7.1.5.phar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PHP/Unittest/testsample.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Chrome Browser.url" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Chrome Browser.url" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/brewing.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/brewing.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/drinks.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/drinks.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/grinding.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/grinding.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/images/coffee-beans.jpg" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/coffee-beans.jpg" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/images/coffee-berries.jpg" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/coffee-berries.jpg" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/images/coffee-cup.png" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/coffee-cup.png" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/images/coffee-grinder.jpg" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/coffee-grinder.jpg" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/images/commercial-roaster.jpg" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/commercial-roaster.jpg" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/images/espresso.jpg" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/espresso.jpg" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/images/fresh-beans.jpg" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/fresh-beans.jpg" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/images/latte-poster.JPG" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/latte-poster.JPG" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/images/roasted-beans.jpg" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/roasted-beans.jpg" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/images/tiny-coffee-cup.gif" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/tiny-coffee-cup.gif" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/index.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/index.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/media/latte-poster.JPG" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/media/latte-poster.JPG" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/media/latte-pour.mp4" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/media/latte-pour.mp4" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/media/latte-pour.oggtheora.ogv" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/media/latte-pour.oggtheora.ogv" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/media/latte-pour.webmhd.webm" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/media/latte-pour.webmhd.webm" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/roasting.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/roasting.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/styles.css" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/styles.css" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Completed-Website/survey.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/survey.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Creative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0.url" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Creative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0.url" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 1 Intro/Notepad++ Home.url" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Notepad++ Home.url" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 2 Basics/first-page.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 2 Basics/first-page.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 2 Basics/golden-gate.tif" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 2 Basics/golden-gate.tif" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 2 Basics/sample-content.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 2 Basics/sample-content.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 2 Basics/sample-images.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 2 Basics/sample-images.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 2 Basics/sample-lists.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 2 Basics/sample-lists.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 3 Styles/star.gif" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 3 Styles/star.gif" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 3 Styles/styles-sample.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 3 Styles/styles-sample.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 3 Styles/stylesheet.css" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 3 Styles/stylesheet.css" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 4 Links/golden-gate-sm.jpg" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 4 Links/golden-gate-sm.jpg" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 4 Links/links-sample.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 4 Links/links-sample.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 4 Links/long-page-sample.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 4 Links/long-page-sample.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 4 Links/other-pages/linked-page1.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 4 Links/other-pages/linked-page1.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 4 Links/other-pages/linked-page2.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 4 Links/other-pages/linked-page2.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 4 Links/other-pages/linked-page3.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 4 Links/other-pages/linked-page3.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 5 Layout/golden-gate-sm.jpg" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 5 Layout/golden-gate-sm.jpg" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 5 Layout/layout-sample.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 5 Layout/layout-sample.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 5 Layout/position-sample.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 5 Layout/position-sample.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 6 Tables/tables-sample.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 6 Tables/tables-sample.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 7 Forms/forms-sample.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 7 Forms/forms-sample.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 8 Video/Miro Video Converter FREE - Convert any video to MP4, WebM (vp8), iPhone, Android, iPod, iPad, and more-.url" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 8 Video/Miro Video Converter FREE - Convert any video to MP4, WebM (vp8), iPhone, Android, iPod, iPad, and more-.url" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 8 Video/latte-poster.JPG" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 8 Video/latte-poster.JPG" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 8 Video/latte-pour.mp4" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 8 Video/latte-pour.mp4" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 8 Video/video-sample.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 8 Video/video-sample.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 9 Conclusion/CSS2-Help-Sheet.pdf.url" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 9 Conclusion/CSS2-Help-Sheet.pdf.url" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 9 Conclusion/CSS3 Cheat Sheet - WebsiteSetup.org.url" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 9 Conclusion/CSS3 Cheat Sheet - WebsiteSetup.org.url" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 9 Conclusion/Cheat Sheet HTML5 - WebsiteSetup.org.URL" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 9 Conclusion/Cheat Sheet HTML5 - WebsiteSetup.org.URL" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 9 Conclusion/HTML Codes - Table of ascii characters and symbols.URL" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 9 Conclusion/HTML Codes - Table of ascii characters and symbols.URL" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 9 Conclusion/HTML Color Names.URL" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 9 Conclusion/HTML Color Names.URL" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 9 Conclusion/Html Color Codes.URL" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 9 Conclusion/Html Color Codes.URL" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Section 9 Conclusion/html5shiv ˙ GitHub aFarkas.url" afterPath="$PROJECT_DIR$/HTML/Coffee/Section 9 Conclusion/html5shiv ˙ GitHub aFarkas.url" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/brewing.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/brewing.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/drinks.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/drinks.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/grinding.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/grinding.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/images/coffee-beans.jpg" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/coffee-beans.jpg" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/images/coffee-berries.jpg" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/coffee-berries.jpg" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/images/coffee-cup.png" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/coffee-cup.png" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/images/coffee-grinder.jpg" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/coffee-grinder.jpg" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/images/commercial-roaster.jpg" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/commercial-roaster.jpg" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/images/espresso.jpg" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/espresso.jpg" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/images/fresh-beans.jpg" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/fresh-beans.jpg" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/images/roasted-beans.jpg" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/roasted-beans.jpg" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/images/tiny-coffee-cup.gif" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/tiny-coffee-cup.gif" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/index.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/index.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/media/latte-poster.JPG" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/media/latte-poster.JPG" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/media/latte-pour.mp4" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/media/latte-pour.mp4" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/roasting.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/roasting.html" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/style.css" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/style.css" />
-      <change beforePath="$PROJECT_DIR$/HTML - All about Coffee/Website Project/survey.html" afterPath="$PROJECT_DIR$/HTML/Coffee/Website Project/survey.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -126,17 +43,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="article.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="article.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML/Mastery/section_2/article.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
+            <state relative-caret-position="383">
               <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="excercise-containers.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="excercise-containers.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/Mastery/section_2/excercise-containers.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1">
@@ -171,10 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/School/verwerk4.4.php" />
-        <option value="$PROJECT_DIR$/School/blok4.php" />
-        <option value="$PROJECT_DIR$/data/klant.php" />
-        <option value="$USER_HOME$/Downloads/world.sql" />
         <option value="$PROJECT_DIR$/School/db.php" />
         <option value="$PROJECT_DIR$/School/db2.php" />
         <option value="$PROJECT_DIR$/School/db6.3.php" />
@@ -222,6 +135,10 @@
         <option value="$PROJECT_DIR$/HTML/validator.w3.org.html" />
         <option value="$PROJECT_DIR$/HTML/Mastery/section_2/syntax.html" />
         <option value="$PROJECT_DIR$/HTML/Mastery/section_2/article.html" />
+        <option value="$PROJECT_DIR$/PHP/Unittest/unittestsample.php" />
+        <option value="$PROJECT_DIR$/PHP/Unittest/composer.json" />
+        <option value="$PROJECT_DIR$/PHP/Unittest/testsample.php" />
+        <option value="$PROJECT_DIR$/PHP/Unittest/UnitTestSample.php" />
       </list>
     </option>
   </component>
@@ -231,11 +148,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1137" />
-    <option name="height" value="1071" />
+    <option name="height" value="967" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -264,20 +181,23 @@
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="HTML" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="MVC_Login_PHP" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="HTML" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Mastery" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PHP" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="HTML" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Mastery" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="section_2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="School" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="School" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webwinkel" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
@@ -301,11 +221,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PHP/Unittest" />
       <recent name="$PROJECT_DIR$/School/Session/static" />
       <recent name="$PROJECT_DIR$/Bootstrap/only/first_project" />
       <recent name="$PROJECT_DIR$/Bootstrap/only" />
       <recent name="$PROJECT_DIR$/Working Files/Website Project/media" />
-      <recent name="$PROJECT_DIR$/Test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/HTML/Mastery/section_2" />
@@ -326,6 +246,16 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="UnitTestSample" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="UnitTestSample" file="$PROJECT_DIR$/PHP/Unittest/UnitTestSample.php" scope="Class" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.UnitTestSample" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -348,12 +278,44 @@
       <workItem from="1524264648676" duration="1117000" />
       <workItem from="1483229884301" duration="109925000" />
       <workItem from="1525383011182" duration="20535000" />
-      <workItem from="1525641648569" duration="91960000" />
+      <workItem from="1525641648569" duration="98171000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="UnitTestSample - 2018.05.31 at 16h 47m 48s.xml">
+      <configuration name="UnitTestSample" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UnitTestSample - 2018.05.31 at 16h 48m 19s.xml">
+      <configuration name="UnitTestSample" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UnitTestSample - 2018.05.31 at 16h 48m 32s.xml">
+      <configuration name="UnitTestSample" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UnitTestSample - 2018.05.31 at 16h 56m 40s.xml">
+      <configuration name="UnitTestSample" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UnitTestSample - 2018.05.31 at 16h 58m 50s.xml">
+      <configuration name="UnitTestSample" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UnitTestSample - 2018.05.31 at 17h 00m 25s.xml">
+      <configuration name="UnitTestSample" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UnitTestSample - 2018.05.31 at 17h 00m 57s.xml">
+      <configuration name="UnitTestSample" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UnitTestSample - 2018.05.31 at 17h 01m 14s.xml">
+      <configuration name="UnitTestSample" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UnitTestSample - 2018.05.31 at 17h 10m 10s.xml">
+      <configuration name="UnitTestSample" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UnitTestSample - 2018.05.31 at 17h 10m 25s.xml">
+      <configuration name="UnitTestSample" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="320687000" />
+    <option name="totallyTimeSpent" value="326898000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -365,17 +327,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1137" height="1071" extended-state="1" />
+    <frame x="0" y="23" width="1137" height="967" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31425598" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.253125" sideWeight="0.3872146" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943925" sideWeight="0.44200912" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295238" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.253125" sideWeight="0.6127854" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5794392" sideWeight="0.49680364" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5920746" sideWeight="0.6127854" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23330516" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14885844" sideWeight="0.4904762" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.56593406" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943925" sideWeight="0.55799085" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.49708575" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6108108" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -436,37 +399,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/School/db6.2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding>
-            <marker date="1525630860920" expanded="true" signature="472:479" ph="SELECT DISTI... COUNTRY" />
-            <marker date="1525630860920" expanded="true" signature="472:545" ph="SELECT Count... City" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/blok6.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
-          <folding>
-            <marker date="1525637365584" expanded="true" signature="796:834" ph="SELECT DISTI... COUNTRY" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="32" />
-          <folding>
-            <marker date="1525630260013" expanded="true" signature="472:510" ph="SELECT DISTI... COUNTRY" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/School/databeesje/opdracht.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -877,10 +809,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/Mastery/section_2/article.html">
+    <entry file="file://$PROJECT_DIR$/PHP/Unittest/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/Unittest/UnitTestSample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/Unittest/testsample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="2" lean-forward="false" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -889,6 +837,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/Mastery/section_2/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
           <folding />
         </state>
       </provider>
