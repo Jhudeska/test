@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li a{
+    display: block;
+    text-align: center;
+    padding: 10px 100px;
+    font-size: 30px;
+    color: #F0A202;
+    text-decoration: none;
+    background-color: #202C59;
+}
+
+li a:hover{
+    opacity: 0.7;
+}
+
+@media screen  and (min-width: 576px){
+    ul{
+        display: flex;
+        flex-wrap: wrap;
+        border-top: 6px solid #F0A202;
+    }
+
+    li{
+        flex: 1 0 auto;
+    }
+    
+    .first{
+        background: #F0A202;
+        color: #202C59;
+    }
+
+}

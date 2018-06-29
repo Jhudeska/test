@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.banner{
+    min-height: 100vh;
+    background: url("img/logo.png") center/cover fixed no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.center{
+    text-align: center;
+    font-size: 40px;
+    color: red;
+
+}
+
+.skills{
+    min-height: 60vh;
+    background: url("img/logo2.png") center/cover fixed no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

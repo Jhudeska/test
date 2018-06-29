@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Simonetta, cursive;
+    margin-top: 70px;
+}
+
+.transparant{
+    background-color:rgba(175,76,6,0.7);
+}
+
+.max-viewport{
+    min-height:100vh;
+}
+
+#banner,
+#contact,
+#social {
+    background: linear-gradient(
+            rgba(136,69,19,0.6), rgba(136,69,19,0.6)),
+            url("../img/banner-person.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

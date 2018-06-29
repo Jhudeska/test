@@ -2,8 +2,217 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b50dba33-cc8d-4996-827a-26e80b3d7416" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/PHP/php-learning/.idea/workspace.xml" afterPath="$PROJECT_DIR$/PHP/php-learning/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/School/Posts_jhu/.idea/workspace.xml" afterPath="$PROJECT_DIR$/School/Posts_jhu/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/00 - Bootstrap Tutorial/Example/bootstrap.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/00 - Bootstrap Tutorial/Example/non_bootstrap.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/00 - Bootstrap Tutorial/lecture1-7.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/00 - Bootstrap Tutorial/lecture13-15.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/00 - Bootstrap Tutorial/lecture8-12.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/00 - Bootstrap Tutorial/source/source.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/example.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/img/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/img/logo2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/lecture16-22.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/lecture23.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/lecture24-30.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/lecture31-flex-boxmenu.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/lecture32-flex-boxmenu-w-icon.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/lecture33-flex-boxmenu-sidebar.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/lecture34-flex-boxmenu.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/main2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/main3.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/main4.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/main5.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/source/source.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/source/source.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/03-Portofolio Website/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/03-Portofolio Website/img/banner-person.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/03-Portofolio Website/img/banner.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/03-Portofolio Website/img/project-1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/03-Portofolio Website/img/project-2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/03-Portofolio Website/img/project-3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/03-Portofolio Website/img/project-4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/03-Portofolio Website/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/03-Portofolio Website/js/jquery-3.3..1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/03-Portofolio Website/source/source.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/04-App Builder Website/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/04-App Builder Website/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/04-App Builder Website/source/source.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Source/source.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/02 - Emmet/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/02 - Emmet/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/source/source.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PHP/00-Chat System/config.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PHP/00-Chat System/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PHP/00-Chat System/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PHP/00-Chat System/source/source.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/about.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/about.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/blank.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/blank.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/browse.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/browse.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/canvas.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/canvas.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/canvas.js" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/canvas.js" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/contact.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/contact.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/css/style.css" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/drag.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/drag.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/geoL.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/geoL.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/images/background.png" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/images/background.png" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/images/fav_pic.jpg" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/images/fav_pic.jpg" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/images/html5.jpg" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/images/html5.jpg" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/images/web.jpg" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/images/web.jpg" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/index.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/index.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/modernizr.custom.38894.js" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/modernizr.custom.38894.js" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/picca.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/picca.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-HTML5MultimediaPart1/Doc/section3.pptx" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-HTML5MultimediaPart1/Doc/section3.pptx" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-HTML5MultimediaPart1/Doc/~$section2.pptx" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-HTML5MultimediaPart1/Doc/~$section2.pptx" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_done/about.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_done/about.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_done/browse.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_done/browse.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_done/contact.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_done/contact.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_done/css/style.css" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_done/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_done/images/background.png" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_done/images/background.png" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_done/images/web.jpg" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_done/images/web.jpg" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_done/index.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_done/index.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_done/video/ad.mp4" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_done/video/ad.mp4" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_html/about.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_html/about.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_html/browse.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_html/browse.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_html/contact.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_html/contact.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_html/css/style.css" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_html/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_html/images/background.png" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_html/images/background.png" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_html/images/web.jpg" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_html/images/web.jpg" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_html/index.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-HTML5MultimediaPart1/Program Files/blue_developer_html/index.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-NewFormElementsa/Doc/section3.pptx" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-NewFormElementsa/Doc/section3.pptx" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_done/about.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_done/about.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_done/browse.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_done/browse.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_done/contact.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_done/contact.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_done/css/style.css" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_done/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_done/images/background.png" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_done/images/background.png" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_done/images/web.jpg" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_done/images/web.jpg" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_done/index.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_done/index.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_html/about.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_html/about.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_html/browse.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_html/browse.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_html/contact.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_html/contact.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_html/css/style.css" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_html/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_html/images/background.png" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_html/images/background.png" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_html/images/web.jpg" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_html/images/web.jpg" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_html/index.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-NewFormElementsa/Program FIles/blue_developer_html/index.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-SVGinHTML5Part1/Doc/section4.pptx" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-SVGinHTML5Part1/Doc/section4.pptx" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-SVGinHTML5Part1/Program Files/index.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-SVGinHTML5Part1/Program Files/index.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-SVGinHTML5Part1/Program Files/noanimate.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-SVGinHTML5Part1/Program Files/noanimate.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-tags&amp;Elements/Program Files/blue_developer_html/css/style.css" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-tags&amp;Elements/Program Files/blue_developer_html/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-tags&amp;Elements/Program Files/blue_developer_html_done/about.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-tags&amp;Elements/Program Files/blue_developer_html_done/about.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-tags&amp;Elements/Program Files/blue_developer_html_done/browse.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-tags&amp;Elements/Program Files/blue_developer_html_done/browse.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-tags&amp;Elements/Program Files/blue_developer_html_done/contact.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-tags&amp;Elements/Program Files/blue_developer_html_done/contact.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-tags&amp;Elements/Program Files/blue_developer_html_done/css/style.css" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-tags&amp;Elements/Program Files/blue_developer_html_done/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-tags&amp;Elements/Program Files/blue_developer_html_done/images/background.png" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-tags&amp;Elements/Program Files/blue_developer_html_done/images/background.png" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-tags&amp;Elements/Program Files/blue_developer_html_done/images/web.jpg" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-tags&amp;Elements/Program Files/blue_developer_html_done/images/web.jpg" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/resource-tags&amp;Elements/Program Files/blue_developer_html_done/index.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/resource-tags&amp;Elements/Program Files/blue_developer_html_done/index.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/svg.html" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/svg.html" />
+      <change beforePath="$PROJECT_DIR$/Blue_Developer/video/ad.mp4" afterPath="$PROJECT_DIR$/HTML/03 - Blue_Developer/video/ad.mp4" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/Introduction/images/about-bcg.jpeg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/about-bcg.jpeg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/Introduction/images/projects-1.jpeg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/projects-1.jpeg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/Introduction/images/projects-2.jpeg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/projects-2.jpeg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/Introduction/images/projects-3.jpeg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/projects-3.jpeg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/Introduction/images/projects-4.jpeg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/projects-4.jpeg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/Introduction/images/projects-5.jpeg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/projects-5.jpeg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/Introduction/images/projects-6.jpeg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/projects-6.jpeg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/Introduction/images/team-1.jpg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/team-1.jpg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/Introduction/images/team-2.jpg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/team-2.jpg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/Introduction/images/team-3.jpg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/team-3.jpg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/Introduction/images/team-4.jpg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/team-4.jpg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/Introduction/images/team-5.jpg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/team-5.jpg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/Introduction/images/team-6.jpg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/team-6.jpg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/Introduction/index.html" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/index.html" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/Introduction/main.css" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/main.css" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/Introduction/start.html" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/start.html" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/first_project/images/about-bcg.jpeg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/images/about-bcg.jpeg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/first_project/images/projects-1.jpeg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/images/projects-1.jpeg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/first_project/images/projects-2.jpeg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/images/projects-2.jpeg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/first_project/images/projects-3.jpeg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/images/projects-3.jpeg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/first_project/images/projects-4.jpeg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/images/projects-4.jpeg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/first_project/images/projects-5.jpeg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/images/projects-5.jpeg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/first_project/images/projects-6.jpeg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/images/projects-6.jpeg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/first_project/images/team-1.jpg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/images/team-1.jpg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/first_project/images/team-2.jpg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/images/team-2.jpg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/first_project/images/team-3.jpg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/images/team-3.jpg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/first_project/images/team-4.jpg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/images/team-4.jpg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/first_project/images/team-5.jpg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/images/team-5.jpg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/first_project/images/team-6.jpg" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/images/team-6.jpg" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/first_project/index.html" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/index.html" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/first_project/main.css" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/main.css" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/only/first_project/start.html" afterPath="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/start.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Chrome Browser.url" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Chrome Browser.url" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/brewing.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/brewing.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/drinks.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/drinks.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/grinding.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/grinding.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/coffee-beans.jpg" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/images/coffee-beans.jpg" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/coffee-berries.jpg" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/images/coffee-berries.jpg" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/coffee-cup.png" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/images/coffee-cup.png" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/coffee-grinder.jpg" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/images/coffee-grinder.jpg" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/commercial-roaster.jpg" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/images/commercial-roaster.jpg" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/espresso.jpg" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/images/espresso.jpg" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/fresh-beans.jpg" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/images/fresh-beans.jpg" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/latte-poster.JPG" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/images/latte-poster.JPG" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/roasted-beans.jpg" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/images/roasted-beans.jpg" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/images/tiny-coffee-cup.gif" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/images/tiny-coffee-cup.gif" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/index.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/index.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/media/latte-poster.JPG" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/media/latte-poster.JPG" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/media/latte-pour.mp4" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/media/latte-pour.mp4" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/media/latte-pour.oggtheora.ogv" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/media/latte-pour.oggtheora.ogv" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/media/latte-pour.webmhd.webm" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/media/latte-pour.webmhd.webm" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/roasting.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/roasting.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/styles.css" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/styles.css" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Completed-Website/survey.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Completed-Website/survey.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Creative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0.url" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Creative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0.url" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 1 Intro/Notepad++ Home.url" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 1 Intro/Notepad++ Home.url" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 2 Basics/first-page.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 2 Basics/first-page.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 2 Basics/golden-gate.tif" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 2 Basics/golden-gate.tif" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 2 Basics/sample-content.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 2 Basics/sample-content.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 2 Basics/sample-images.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 2 Basics/sample-images.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 2 Basics/sample-lists.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 2 Basics/sample-lists.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 3 Styles/star.gif" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 3 Styles/star.gif" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 3 Styles/styles-sample.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 3 Styles/styles-sample.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 3 Styles/stylesheet.css" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 3 Styles/stylesheet.css" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 4 Links/golden-gate-sm.jpg" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 4 Links/golden-gate-sm.jpg" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 4 Links/links-sample.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 4 Links/links-sample.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 4 Links/long-page-sample.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 4 Links/long-page-sample.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 4 Links/other-pages/linked-page1.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 4 Links/other-pages/linked-page1.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 4 Links/other-pages/linked-page2.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 4 Links/other-pages/linked-page2.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 4 Links/other-pages/linked-page3.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 4 Links/other-pages/linked-page3.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 5 Layout/golden-gate-sm.jpg" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 5 Layout/golden-gate-sm.jpg" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 5 Layout/layout-sample.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 5 Layout/layout-sample.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 5 Layout/position-sample.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 5 Layout/position-sample.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 6 Tables/tables-sample.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 6 Tables/tables-sample.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 7 Forms/forms-sample.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 7 Forms/forms-sample.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 8 Video/Miro Video Converter FREE - Convert any video to MP4, WebM (vp8), iPhone, Android, iPod, iPad, and more-.url" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 8 Video/Miro Video Converter FREE - Convert any video to MP4, WebM (vp8), iPhone, Android, iPod, iPad, and more-.url" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 8 Video/latte-poster.JPG" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 8 Video/latte-poster.JPG" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 8 Video/latte-pour.mp4" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 8 Video/latte-pour.mp4" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 8 Video/video-sample.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 8 Video/video-sample.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 9 Conclusion/CSS2-Help-Sheet.pdf.url" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 9 Conclusion/CSS2-Help-Sheet.pdf.url" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 9 Conclusion/CSS3 Cheat Sheet - WebsiteSetup.org.url" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 9 Conclusion/CSS3 Cheat Sheet - WebsiteSetup.org.url" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 9 Conclusion/Cheat Sheet HTML5 - WebsiteSetup.org.URL" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 9 Conclusion/Cheat Sheet HTML5 - WebsiteSetup.org.URL" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 9 Conclusion/HTML Codes - Table of ascii characters and symbols.URL" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 9 Conclusion/HTML Codes - Table of ascii characters and symbols.URL" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 9 Conclusion/HTML Color Names.URL" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 9 Conclusion/HTML Color Names.URL" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 9 Conclusion/Html Color Codes.URL" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 9 Conclusion/Html Color Codes.URL" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Section 9 Conclusion/html5shiv ˙ GitHub aFarkas.url" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Section 9 Conclusion/html5shiv ˙ GitHub aFarkas.url" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/brewing.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/brewing.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/drinks.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/drinks.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/grinding.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/grinding.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/coffee-beans.jpg" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/images/coffee-beans.jpg" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/coffee-berries.jpg" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/images/coffee-berries.jpg" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/coffee-cup.png" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/images/coffee-cup.png" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/coffee-grinder.jpg" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/images/coffee-grinder.jpg" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/commercial-roaster.jpg" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/images/commercial-roaster.jpg" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/espresso.jpg" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/images/espresso.jpg" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/fresh-beans.jpg" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/images/fresh-beans.jpg" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/roasted-beans.jpg" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/images/roasted-beans.jpg" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/images/tiny-coffee-cup.gif" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/images/tiny-coffee-cup.gif" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/index.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/index.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/media/latte-poster.JPG" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/media/latte-poster.JPG" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/media/latte-pour.mp4" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/media/latte-pour.mp4" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/roasting.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/roasting.html" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/style.css" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/style.css" />
+      <change beforePath="$PROJECT_DIR$/HTML/Coffee/Website Project/survey.html" afterPath="$PROJECT_DIR$/HTML/01 - Coffee/Website Project/survey.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,11 +238,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Pages.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/School/Posts_jhu/shareposts/app/controllers/Pages.php">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bootstrap/04-App Builder Website/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="1058">
+              <caret line="46" column="52" lean-forward="false" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PHP/00-Chat System/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP/00-Chat System/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -45,8 +274,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -64,46 +293,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/School/db2.php" />
-        <option value="$PROJECT_DIR$/School/db6.3.php" />
-        <option value="$PROJECT_DIR$/School/db6.4.php" />
-        <option value="$PROJECT_DIR$/School/db6.6.php" />
-        <option value="$PROJECT_DIR$/School/db6.5.php" />
-        <option value="$PROJECT_DIR$/School/blok5.php" />
-        <option value="$PROJECT_DIR$/School/blok6.php" />
-        <option value="$PROJECT_DIR$/School/blok7.php" />
-        <option value="$PROJECT_DIR$/School/webwinkel/includes/mysqli_connect_localhost.php" />
-        <option value="$PROJECT_DIR$/Bootstrap/only/first_project/index.html" />
-        <option value="$PROJECT_DIR$/School/databeesje/klant.php" />
-        <option value="$PROJECT_DIR$/School/databeesje/opdracht.php" />
-        <option value="$PROJECT_DIR$/School/databeesje/css/main.css" />
-        <option value="$PROJECT_DIR$/School/databeesje/db.php" />
-        <option value="$PROJECT_DIR$/School/databeesje/index.php" />
-        <option value="$PROJECT_DIR$/School/databeesje/server.php" />
-        <option value="$PROJECT_DIR$/School/crudwebscript/youtube.php" />
-        <option value="$PROJECT_DIR$/School/Session/static/test-clear.php" />
-        <option value="$PROJECT_DIR$/School/Session/static/session.php" />
-        <option value="$PROJECT_DIR$/School/Session/static/test-set.php" />
-        <option value="$PROJECT_DIR$/School/Session/non/test-clear.php" />
-        <option value="$PROJECT_DIR$/School/Session/non/session.php" />
-        <option value="$PROJECT_DIR$/School/Session/non/test-set.php" />
-        <option value="$PROJECT_DIR$/School/Session/static/test_post.php" />
-        <option value="$PROJECT_DIR$/School/Session/static/post.php" />
-        <option value="$PROJECT_DIR$/School/Session/static/test-post.php" />
-        <option value="$PROJECT_DIR$/School/Session/static/Post.php" />
-        <option value="$PROJECT_DIR$/School/Session/non/Post.php" />
-        <option value="$PROJECT_DIR$/School/Session/non/post-handler.php" />
-        <option value="$PROJECT_DIR$/School/Session/non/test-post.php" />
-        <option value="$PROJECT_DIR$/School/Session/static/test-get.php" />
-        <option value="$PROJECT_DIR$/School/Session/static/post-handler.php" />
-        <option value="$PROJECT_DIR$/School/Session/non/test-get.php" />
-        <option value="$PROJECT_DIR$/School/Session/session.php" />
-        <option value="$PROJECT_DIR$/School/crudwebscript/db.php" />
-        <option value="$PROJECT_DIR$/School/crudwebscript/index.php" />
-        <option value="$PROJECT_DIR$/School/crudwebscript/action.php" />
-        <option value="$PROJECT_DIR$/School/sandbox/2_4.php" />
-        <option value="$PROJECT_DIR$/School/sandbox/2_3.php" />
-        <option value="$PROJECT_DIR$/HTML/Mastery/udemy.html" />
         <option value="$PROJECT_DIR$/HTML/Mastery/index.html" />
         <option value="$PROJECT_DIR$/HTML/Mastery/script.js" />
         <option value="$PROJECT_DIR$/HTML/validator.w3.org.html" />
@@ -115,6 +304,46 @@
         <option value="$PROJECT_DIR$/PHP/Unittest/UnitTestSample.php" />
         <option value="$PROJECT_DIR$/PHP/mvc-tutorial/mvc_all/model/ContactsService.php" />
         <option value="$PROJECT_DIR$/School/sandbox/2_5.php" />
+        <option value="$PROJECT_DIR$/HTML/Emmet/style.css" />
+        <option value="$PROJECT_DIR$/HTML/03 - Blue_Developer/source/source.php" />
+        <option value="$PROJECT_DIR$/HTML/01 - Coffee/Source/source.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/first_project/images/source/source.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/01 - first_project/images/source/source.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/00 - Bootstrap Tutorial/bootstrap.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/00 - Bootstrap Tutorial/lecture1-7.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/00 - Bootstrap Tutorial/lecture8-12.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/00 - Bootstrap Tutorial/lecture13-15.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/00 - Bootstrap Tutorial/index.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/main.css" />
+        <option value="$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/lecture16-22.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/example.css" />
+        <option value="$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/lecture23.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/lecture24-30.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/main2.css" />
+        <option value="$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/lecture33-flex-boxmenu.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/main3.css" />
+        <option value="$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/lecture32-flex-boxmenu-w-icon.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/main4.css" />
+        <option value="$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/lecture33-flex-boxmenu-sidebar.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/main5.css" />
+        <option value="$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/index.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/lecture34-flex-boxmenu.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/03  Portofolio Website/js/jquery-3.3..1.min.js" />
+        <option value="$PROJECT_DIR$/Bootstrap/03  Portofolio Website/index.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/03  Portofolio Website/css/main.css" />
+        <option value="$PROJECT_DIR$/Bootstrap/Portofolio/css/main.css" />
+        <option value="$PROJECT_DIR$/Bootstrap/Portofolio/index.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/00 - Bootstrap Tutorial/source/source.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/source/source.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/03-Portofolio Website/source/source.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/source/source.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/04-App Builder Website/source/source.php" />
+        <option value="$PROJECT_DIR$/Bootstrap/04-App Builder Website/css/main.css" />
+        <option value="$PROJECT_DIR$/Bootstrap/04-App Builder Website/index.html" />
+        <option value="$PROJECT_DIR$/PHP/00-Chat System/source/source.php" />
+        <option value="$PROJECT_DIR$/PHP/00-Chat System/config.php" />
+        <option value="$PROJECT_DIR$/PHP/00-Chat System/index.php" />
+        <option value="$PROJECT_DIR$/PHP/00-Chat System/css/main.css" />
       </list>
     </option>
   </component>
@@ -126,10 +355,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="893" />
-    <option name="y" value="24" />
-    <option name="width" value="787" />
-    <option name="height" value="967" />
+    <option name="y" value="23" />
+    <option name="width" value="1186" />
+    <option name="height" value="1359" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -146,7 +374,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,61 +390,20 @@
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="PHP" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="php-learning" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="00-Chat System" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="School" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="School" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Posts_jhu" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="School" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Posts_jhu" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shareposts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="School" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Posts_jhu" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shareposts" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="School" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Posts_jhu" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shareposts" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="School" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Posts_jhu" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shareposts" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="models" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Test123" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PHP" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="00-Chat System" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -231,19 +417,19 @@
     <property name="full.screen.before.presentation.mode" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/School" />
-      <recent name="$PROJECT_DIR$/HTML/Mastery/section_2" />
-      <recent name="$PROJECT_DIR$/HTML/Mastery/section_1" />
-      <recent name="$PROJECT_DIR$/HTML/Mastery" />
-      <recent name="$PROJECT_DIR$/HTML/Mastery/img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/PHP/Unittest" />
       <recent name="$PROJECT_DIR$/School/Session/static" />
       <recent name="$PROJECT_DIR$/Bootstrap/only/first_project" />
       <recent name="$PROJECT_DIR$/Bootstrap/only" />
       <recent name="$PROJECT_DIR$/Working Files/Website Project/media" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Bootstrap/04-App Builder Website" />
+      <recent name="$PROJECT_DIR$/Bootstrap/Portofolio/img" />
+      <recent name="$PROJECT_DIR$/Bootstrap/02  Bootstrap Only Website" />
+      <recent name="$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -293,6 +479,8 @@
       <workItem from="1528092419464" duration="295000" />
       <workItem from="1528092816899" duration="1363000" />
       <workItem from="1528356869700" duration="6453000" />
+      <workItem from="1529920429247" duration="63532000" />
+      <workItem from="1530212914057" duration="636000" />
     </task>
     <servers />
   </component>
@@ -329,7 +517,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="335179000" />
+    <option name="totallyTimeSpent" value="399347000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -341,10 +529,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="893" y="24" width="787" height="967" extended-state="0" />
+    <frame x="0" y="23" width="1186" height="1359" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30872482" sideWeight="0.4904762" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2263986" sideWeight="0.4904762" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31425598" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32943925" sideWeight="0.55799085" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943925" sideWeight="0.44200912" order="8" side_tool="true" content_ui="tabs" />
@@ -352,52 +541,41 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295238" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5794392" sideWeight="0.49680364" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24880952" sideWeight="0.49468893" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39602804" sideWeight="0.6127854" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22035256" sideWeight="0.6127854" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20059524" sideWeight="0.5095238" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31425598" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943925" sideWeight="0.44200912" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295238" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5794392" sideWeight="0.49680364" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5920746" sideWeight="0.6127854" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23330516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15707763" sideWeight="0.4904762" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32943925" sideWeight="0.55799085" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.49708575" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6108108" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31425598" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943925" sideWeight="0.44200912" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295238" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5794392" sideWeight="0.49680364" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22052927" sideWeight="0.6127854" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23330516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16520979" sideWeight="0.4904762" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32943925" sideWeight="0.55799085" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.49708575" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6108108" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24880952" sideWeight="0.49468893" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20059524" sideWeight="0.5095238" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31425598" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38578087" sideWeight="0.3821734" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295238" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34696263" sideWeight="0.61782664" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23374613" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.103785105" sideWeight="0.4904762" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.56593406" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6113117" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24880952" sideWeight="0.49468893" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20059524" sideWeight="0.5095238" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,389 +602,276 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/School/Session/non/test-post.php">
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        <state relative-caret-position="241">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/School/Session/non/test-get.php">
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/lecture24-30.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        <state relative-caret-position="-1139">
+          <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/School/Session/non/post-handler.php">
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/lecture31-flex-boxmenu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state relative-caret-position="483">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/School/Session/session.php">
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/main2.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        <state relative-caret-position="483">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/School/crudwebscript/index.php">
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/css/svg-with-js.css" />
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/css/v4-shims.min.css" />
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/css/fontawesome.css" />
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/css/v4-shims.css" />
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/css/regular.css" />
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/css/brands.css" />
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/css/solid.css" />
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01 CSS Flexbox Tutorial/css/all.css" />
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/lecture32-flex-boxmenu-w-icon.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        <state relative-caret-position="575">
+          <caret line="65" column="7" lean-forward="false" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/School/crudwebscript/db.php">
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/main3.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        <state relative-caret-position="304">
+          <caret line="41" column="21" lean-forward="false" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/School/crudwebscript/action.php">
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/main4.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="76" column="64" lean-forward="false" selection-start-line="76" selection-start-column="64" selection-end-line="76" selection-end-column="64" />
+        <state relative-caret-position="343">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/School/webwinkel/includes/header.html">
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/lecture33-flex-boxmenu-sidebar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
+        <state relative-caret-position="-10">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/lecture34-flex-boxmenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="33" column="7" lean-forward="false" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/main5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1339">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/School/webwinkel/includes/footer.html">
+    <entry file="file://$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/projects-3.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/projects-2.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/projects-1.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/about-bcg.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/team-6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/team-5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/team-4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/team-3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/team-2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/Introduction/images/team-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/03-Portofolio Website/js/jquery-3.3..1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3016">
+          <caret line="1" column="77716" lean-forward="false" selection-start-line="1" selection-start-column="77716" selection-end-line="1" selection-end-column="77716" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/03-Portofolio Website/img/project-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/03-Portofolio Website/img/project-2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/03-Portofolio Website/img/project-3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/03-Portofolio Website/img/project-4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/03-Portofolio Website/img/banner.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/03-Portofolio Website/img/banner-person.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/03-Portofolio Website/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/04 App Builder Website/index.php" />
+    <entry file="file://$PROJECT_DIR$/Bootstrap/00 - Bootstrap Tutorial/source/source.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="53" lean-forward="false" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/01-CSS Flexbox Tutorial/source/source.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/02-Bootstrap Only Website/source/source.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/School/webwinkel/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../ablerz.nl/frontend/src/components/HelloWorld.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="68" column="44" lean-forward="true" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/webwinkel/bestellingenbeheer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/webwinkel/beheer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/webwinkel/add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-304">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/webwinkel/account.php">
+    <entry file="file://$PROJECT_DIR$/Bootstrap/03-Portofolio Website/source/source.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="66" lean-forward="false" selection-start-line="0" selection-start-column="66" selection-end-line="0" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/Mastery/udemy.html">
+    <entry file="file://$PROJECT_DIR$/Bootstrap/04-App Builder Website/source/source.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="73" lean-forward="false" selection-start-line="0" selection-start-column="73" selection-end-line="0" selection-end-column="73" />
+          <caret line="0" column="69" lean-forward="false" selection-start-line="0" selection-start-column="69" selection-end-line="0" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/Mastery/section_1/script.js">
+    <entry file="file://$PROJECT_DIR$/Bootstrap/03-Portofolio Website/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="217">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="14" selection-end-column="89" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/validator.w3.org.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/Mastery/section_1/manifest.json">
+    <entry file="file://$PROJECT_DIR$/PHP/00-Chat System/source/source.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="52" lean-forward="false" selection-start-line="0" selection-start-column="52" selection-end-line="0" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/Mastery/section_1/index.html">
+    <entry file="file://$PROJECT_DIR$/Bootstrap/04-App Builder Website/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        <state relative-caret-position="161">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/Mastery/section_2/syntax.html">
+    <entry file="file://$PROJECT_DIR$/PHP/00-Chat System/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="345">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/04-App Builder Website/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="46" column="52" lean-forward="false" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/Recursive_function.php">
+    <entry file="file://$PROJECT_DIR$/PHP/00-Chat System/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/Unittest/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/Unittest/UnitTestSample.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/Unittest/testsample.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="2" lean-forward="false" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/Mastery/section_2/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="94" column="1" lean-forward="false" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
+        <state relative-caret-position="690">
+          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/Mastery/section_2/excercise-containers.html">
+    <entry file="file://$PROJECT_DIR$/PHP/00-Chat System/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/mvc-tutorial/mvc_all/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/mvc-tutorial/mvc_all/view/error.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/mvc-tutorial/mvc_all/view/contacts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/mvc-tutorial/mvc_all/view/contact-form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/mvc-tutorial/mvc_all/view/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/mvc-tutorial/mvc_all/controller/ContactsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/mvc-tutorial/mvc_all/model/ContactsGateway.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1335493828000" expanded="true" signature="390:434" ph="SELECT * FRO... contacts" />
-            <marker date="1335493828000" expanded="true" signature="1555:1585" ph="DELETE FROM contacts... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/mvc-tutorial/mvc_all/model/ValidationException.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/mvc-tutorial/mvc_all/model/ContactsService.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/sandbox/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/sandbox/2_5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/sandbox/2_4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/sandbox/2_3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/shareposts/app/views/inc/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/shareposts/app/views/inc/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/shareposts/app/views/inc/navbar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/shareposts/app/views/pages/about.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/shareposts/app/views/pages/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/shareposts/app/views/posts/add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/shareposts/app/views/posts/edit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/shareposts/app/views/posts/show.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/shareposts/app/views/posts/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/shareposts/app/views/users/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/School/Posts_jhu/shareposts/app/controllers/Pages.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="115">
+          <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
           <folding />
         </state>
       </provider>

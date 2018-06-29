@@ -1,0 +1,102 @@
+<!--
+    https://emmet.io/
+    https://www.udemy.com/write-quicker-html5-and-css-3-productivity-hacks-with-emmet/learn/v4/t/lecture/4646588?start=0
+ -->
+
+<!doctype html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+
+! || html:5  || html:4t || html:4s || html:xt  ==  give you access to the Doctype in emmet with an version of html
+doc || doc4 = provides only the meta charset
+!!!4t  || !!!xs ||  !!! == only doctype
+
+
+
+div#header  == id
+.title == class
+form#search
+p.class1.class2.class3
+
+ul>li.item$*6  ==  $ sign will count the items numeric
+h$[title=item$]{This is a header $}*4
+<!--example -->
+<h1 title="item1">This is a header 1</h1>
+<h2 title="item2">This is a header 2</h2>
+<h3 title="item3">This is a header 3</h3>
+<h4 title="item4">This is a header 4</h4>
+
+
+ul>li.item$$*7
+ul>li.item$@-*6  == Alterate numerical count
+p[title="Hello world"] ==  between the [] it will states the text you  insert here
+
+td[rowspan=2 colspan=3 title="hello"]  ==> very important to insert bootstrap
+[a='value1' b="value2"] ==>  this is  how you  can define your own class name  in emmet
+p>a{Click Me}  ==  with brackets you can define your own text
+
+p>{Click me}+a{something}+{..}
+<!--example -->
+<p>Click me<a href="">something</a>..</p>
+
+<!--generate lorem ipsum-->
+lorem === will provide an paragraph
+p*8>lorem == provide 8 paragraph with different lorem text
+ul.generic-list>lorem10.item*5 == lorem10 stands for how many words  the lorem should contains
+
+div>(header>ul>li*3>a)+(footer>h1>p)
+a:link || mail == provides link or mail
+cmd
+br
+
+<!--this can only be used in the head of html  -->
+link:css ||link:print || link:favicon || link:touch || link:rss || meta:utf || meta:vp
+
+<!--styling -->
+style || script:src || img || source:src || source:media:sizes || iframe
+area || area:d /c (default/circle)
+label || input ||  input:search || input:email || input:url
+form:get ||  form:post
+button[type=submit]
+
+
+<!--Css ans emmet -->
+pos == > automatically relative || pos:s  || pos:a  || pos:f
+t ==> top  || cl:r || cl ==> both || d:i => display inline || d ||  d:if => display flex
+v: => visability || v:v
+ovs || rsz ||  rsz:n
+cp:r => clip rect || cur:ha ==> cursor hand  || cur:he || cur:te
+
+
+<!-- margin padding, font, borderbox, background, -->
+m || m:a || mt ==>  margin top || mr == >  margin-right || mr:a
+p || pr || pl ||  pb
+
+bg => background ||  bg+ == option to  repeat || bc ||   bgc:t || bgr: x/y/sp/r || bgp ||  bgbk || bgsz
+c || c:r |  c:ra
+op => opacity || bxz: cp/bb => box-sizing || bxsh => boxsizing  shadow
+maw => max-width || f || f+ => font || fw || fz || fs: i/o i=> italic || ff:s/m/c/ => font familiy || fems : dot/d
+
+ va :tt/  || te: a ||  to || tt: u || whspc:k/ba
+
+
+<!-- table -->
+tbl: f => table layout || ec || bd => border || bdi || bds:n ||  ! => important ||  @f || @f+ ||  @kf => key frame
+ai => align items ||
+
+
+
+
+
+
+</body>
+</html>
