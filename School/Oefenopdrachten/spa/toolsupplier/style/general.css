@@ -1,0 +1,31 @@
+* { 
+    box-sizing: border-box; 
+    font-family: Verdana, sans-serif;
+}
+button {
+    background-color: lightgray;
+}
+button.current {
+    background-color: lightblue;
+}
+table.grid, .grid th, .grid td {
+    border-collapse: collapse;
+    border: 1px solid black;
+    vertical-align: top;
+    padding: 3px 6px 3px 6px;
+}
+th {
+    text-align: left;
+}
+td a {
+    text-decoration: none;
+}
+.number{
+    text-align: right;
+}
+th.sort::after {
+    content: " ↕";
+}
+.hidden {
+    display: none;
+}
