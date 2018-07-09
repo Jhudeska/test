@@ -1,0 +1,62 @@
+body{
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  /*font-size: 16px;*/
+  line-height: 1.7;
+  color: $color-grey-dark;
+  padding: 3rem;
+  position: relative;
+}
+
+.heading-primary{
+  color: $color-white;
+  text-transform: uppercase;
+  backface-visibility: hidden; /*fix for animation shakeness or other weird things */
+  margin-bottom: 6rem;
+
+
+  &--main{
+    display: block;
+    font-size: 6rem;
+    font-weight: 400;
+    letter-spacing: 3.5rem;
+    animation-name: moveInLeft;
+    animation-duration: 3s ;
+    /*
+    animation-delay: 2s;
+    animation-iteration-count: 3;
+    animation-timing-function:  ease-in-out ease-in ease ease-out linear step-start
+                                step-end cubic-bezier(0.1,0.7,1.0, 0.1);
+    */
+  }
+
+  &--sub{
+    display: block;
+    font-size: 2rem;
+    font-weight: 400;
+    letter-spacing: 1.75rem;
+    animation: moveInRight 3s ease-out;
+
+  }
+}
+
+.heading-secondary{
+  font-size: 3.5rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: .2rem;
+  
+  // Gradient text
+  background-image: linear-gradient(to right, $color-primary-light, $color-primary-dark);
+  display: inline-block;
+  -webkit-background-clip: text; /*padding-box, border-box and content-box*/
+  color: transparent;
+  Transition: all .2s;
+
+
+  &:hover{
+    transform: skewY(2deg) skewX(15deg) scale(1.1);
+    text-shadow: .5rem 1rem 2rem rgba($color-black, .2);
+
+  }
+}
