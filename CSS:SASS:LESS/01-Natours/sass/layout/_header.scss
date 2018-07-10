@@ -7,6 +7,7 @@
   url(../img/hero.jpg);
   background-size: cover;
   background-position: top;
+  -webkit-clip-path: polygon(0 0 , 100% 0 ,100% 75vh, 0 100%);
   clip-path: polygon(0 0 , 100% 0 ,100% 75vh, 0 100%);
   /*background-blend-mode: color;
   opacity: 0.9;*/
@@ -24,8 +25,8 @@
 
   &__text-box{
     position: absolute;
-    top: 50%;
-    left: 40%;
+    top: 10%;
+    left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
   }
