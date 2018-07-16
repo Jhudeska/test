@@ -67,30 +67,34 @@
                   background-blend-mode: screen;
                   clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
                   -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+                  border-top-left-radius: 3px;
+                  border-top-right-radius: 3px;
 
                   &--1{
                     background-image: linear-gradient(to right bottom, $color-secondary-light, $color-secondary-dark), url(../img/nat-5.jpg);
                   }
 
                   &--2{
-                    background-image: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark), url(../img/nat-5.jpg);
+                    background-image: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark), url(../img/nat-6.jpg);
                   }
 
                   &--3{
-                    background-image: linear-gradient(to right bottom, $color-tertairy-light, $color-tertairy-dark), url(../img/nat-5.jpg);
+                    background-image: linear-gradient(to right bottom, $color-tertairy-light, $color-tertairy-dark), url(../img/nat-7.jpg);
                   }
 
                 }
 
-                &__heading{
+                &__heading {
                   font-size: 2.8rem;
+                  text-align: right;
                   font-weight: 300;
                   text-transform: uppercase;
                   color: $color-white;
                   position: absolute;
-                  top: 12rem;
-                  right: 2rem;
+                  top: 15rem;
+                  right: 15px;
                   width: 75%;
+                }
 
                   &__heading-span{
                       padding: 1rem 1.5rem;
@@ -104,34 +108,72 @@
                     }
 
                     &--2{
-
+                      background-image: linear-gradient(to right bottom,
+                              rgba($color-primary-light, .85),
+                              rgba($color-primary-dark, .85));
                     }
 
                     &--3{
-
+                      background-image: linear-gradient(to right bottom,
+                              rgba($color-tertairy-light, .85),
+                              rgba($color-tertairy-dark, .85));
                     }
                   }
 
-                  &__details{
-                    ul{
-                      list-style: none;
-                      width: 80%;
 
-                      li{
-                        text-align: center;
-                        font-size: 1.5rem;
-                        padding: 1rem;
 
-                        &:not(:last-child){
-                          border-bottom: $color-grey-light-2;
-                        }
+              &__details{
+                padding: 2.5rem;
 
-                      }
+                ul{
+                  list-style: none;
+                  width: 80%;
+                  margin: auto;
+
+                  li{
+                    text-align: center;
+                    font-size: 1.5rem;
+                    padding: 1rem;
+
+                    &:not(:last-child){
+                      border-bottom: 1px solid $color-grey-light-2;
                     }
-                  }
 
+                  }
                 }
+              }
 
+              //Back side styling
+              &__cta{
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate( -50%, -50%);
+                width: 90%;
+                text-align: center;
+              }
 
+              &__price-box{
+                text-align: center;
+                color: $color-white;
+                padding: 8rem;
+                font-size: 5rem;
+              }
 
+              &__price-only{
+                font-size: 1.8rem;
+                text-transform: uppercase;
+                margin-top: -3rem;
+              }
+
+              &price-value{
+                font-size: 16rem;
+                font-weight: 100;
+                text-align: center;
+                color: red;
+
+              }
             }
+
+
+
