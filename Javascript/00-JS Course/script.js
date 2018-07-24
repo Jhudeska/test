@@ -1,15 +1,24 @@
-document.write('Mijn naam is Jhudeska Ignacia!');
-alert('hello 3');
+/*
+alert('Hello Again!');
+document.write("This is just an test");
+console.error('watch out');
+console.warn('watch out');
 
-console.log('hello tsean');
-console.warn('hello noah');   
-document.write ('multiple comments');  // change to goodbye!
+// With %c you can add some css properties to your javascript code
+console.log("%cHello", "color: green");
+
+//add popup message
+alert("Hello");
+// cosnsole message
+console.log("It worked");
 
 
-alert ('hello'); //message console
-console.log('It worked!');
+*/
 
-var myString = 'a'+''+'b';
-var myTotal = 5 + 5 * 5;
+// Above you can see some  course examples
+
+var myString = "a" + " " + 'b';
+var myTotal = 5 + 5;
+
 
 
