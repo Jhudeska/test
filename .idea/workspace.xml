@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b50dba33-cc8d-4996-827a-26e80b3d7416" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/sass/components/_bg-video.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/sass/components/_form.scss" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/css/style.css" afterPath="$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/index.html" afterPath="$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/index.html" />
-      <change beforePath="$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/sass/abstracts/_variables.scss" afterPath="$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/sass/abstracts/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/sass/components/_story.scss" afterPath="$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/sass/components/_story.scss" />
-      <change beforePath="$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/sass/main.scss" afterPath="$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/sass/main.scss" />
-      <change beforePath="$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/sass/pages/_home.scss" afterPath="$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/sass/pages/_home.scss" />
-      <change beforePath="$PROJECT_DIR$/Javascript/00-JS Course/index.html" afterPath="$PROJECT_DIR$/Javascript/00-JS Course/index.html" />
-      <change beforePath="$PROJECT_DIR$/Javascript/00-JS Course/script.js" afterPath="$PROJECT_DIR$/Javascript/00-JS Course/script.js" />
-      <change beforePath="$PROJECT_DIR$/Javascript/01-Javascript mini course/index.html" afterPath="$PROJECT_DIR$/Javascript/01-Javascript mini course/index.html" />
-      <change beforePath="$PROJECT_DIR$/Javascript/01-Javascript mini course/js/javascript.js" afterPath="$PROJECT_DIR$/Javascript/01-Javascript mini course/js/javascript.js" />
-    </list>
+    <list default="true" id="b50dba33-cc8d-4996-827a-26e80b3d7416" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="612">
-              <caret line="328" column="30" lean-forward="true" selection-start-line="328" selection-start-column="30" selection-end-line="328" selection-end-column="30" />
+              <caret line="328" column="30" lean-forward="false" selection-start-line="328" selection-start-column="30" selection-end-line="328" selection-end-column="30" />
               <folding>
                 <element signature="e#2199#2205#0" expanded="true" />
                 <element signature="e#14543#14549#0" expanded="true" />
@@ -57,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/sass/pages/_home.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -67,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/sass/components/_form.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1818">
-              <caret line="80" column="26" lean-forward="true" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
+              <caret line="80" column="26" lean-forward="false" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -99,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/sass/main.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="506">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -196,10 +182,9 @@
     <handled-path value="$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="998" />
-    <option name="height" value="969" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -419,7 +404,7 @@
       <workItem from="1529920429247" duration="63532000" />
       <workItem from="1530212914057" duration="636000" />
       <workItem from="1530689088155" duration="90089000" />
-      <workItem from="1531726137324" duration="15491000" />
+      <workItem from="1531726137324" duration="15607000" />
     </task>
     <servers />
   </component>
@@ -456,7 +441,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="508583000" />
+    <option name="totallyTimeSpent" value="508699000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -468,10 +453,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="998" height="969" extended-state="0" />
+    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
     <layout>
       <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2792887" sideWeight="0.4904762" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10603654" sideWeight="0.4904762" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31425598" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32943925" sideWeight="0.55799085" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1610577" sideWeight="0.4231465" order="8" side_tool="true" content_ui="tabs" />
@@ -479,7 +464,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295238" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5794392" sideWeight="0.49680364" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24880952" sideWeight="0.49468893" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23426573" sideWeight="0.5768535" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14877868" sideWeight="0.5768535" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20059524" sideWeight="0.5095238" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -853,7 +838,7 @@
     <entry file="file://$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/sass/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -861,7 +846,7 @@
     <entry file="file://$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/sass/pages/_home.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -877,7 +862,7 @@
     <entry file="file://$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
-          <caret line="328" column="30" lean-forward="true" selection-start-line="328" selection-start-column="30" selection-end-line="328" selection-end-column="30" />
+          <caret line="328" column="30" lean-forward="false" selection-start-line="328" selection-start-column="30" selection-end-line="328" selection-end-column="30" />
           <folding>
             <element signature="e#2199#2205#0" expanded="true" />
             <element signature="e#14543#14549#0" expanded="true" />
@@ -904,7 +889,7 @@
     <entry file="file://$PROJECT_DIR$/CSS:SASS:LESS/01-Natours/sass/components/_form.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1818">
-          <caret line="80" column="26" lean-forward="true" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
+          <caret line="80" column="26" lean-forward="false" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
           <folding />
         </state>
       </provider>
